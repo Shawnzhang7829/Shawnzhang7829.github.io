@@ -6,7 +6,7 @@
 - [![ResearchGate](https://img.shields.io/badge/ResearchGate-%2362A94E?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Shuyang-Zhang-17/research)  
 
 
-#### <strong>Publications in Refereed Journals </strong> (published 11 papers, with 7 of them as the first author):
+#### <strong>Publications in Refereed Journals </strong>:
 
 - <strong>Zhang S</strong>, Yuan C, Chen T, Ma B, Liu N*. (2024). A cross-scale indicator framework for the study of annual stability of land surface temperature in different land uses. <strong>Sustainable Cities and Society</strong>, 116, 105936. (SCI Q1, IF=12, 7 citations) [[Paper]](https://doi.org/10.1016/j.scs.2024.105936)
 
