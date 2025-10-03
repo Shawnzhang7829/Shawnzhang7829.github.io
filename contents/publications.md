@@ -3,7 +3,7 @@
 - [![Web of Science](https://img.shields.io/badge/Web%20of%20Science-darkblue?style=flat&logo=webofscience&logoColor=white)](https://www.webofscience.com/wos/author/record/OIR-4914-2025) : [OIR-4914-2025](https://www.webofscience.com/wos/author/record/OIR-4914-2025)
 - [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-blue?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=GW_6fuUAAAAJ)
 - [![Scopus](https://img.shields.io/badge/Scopus-%23FF6A00?style=flat&logo=scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57349228300)
-- [![ResearchGate](https://img.shields.io/badge/ResearchGate-%2362A94E?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Shuyang-Zhang-17/research)
+- [![ResearchGate](https://img.shields.io/badge/ResearchGate-%2362A94E?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Shuyang-Zhang-17/research)  
 
 
 #### <strong>Publications in Refereed Journals </strong> (published 11 papers, with 7 of them as the first author):
@@ -28,7 +28,7 @@
 
 - Li W, Zhou Z*, <strong>Zhang S</strong>, Feng J. (2022). Study on relationship between shading and outdoor air temperature based on the comparison of two high-rise residential estates with field measurements. <strong>Buildings</strong>, 12(11), 1813. (SCI Q2, IF= 3.1, 5 citations) [[Paper]](https://doi.org/10.3390/buildings12111813)
 
-- Wang Y, Lin M, Xu K, <strong>Zhang S</strong>, Ma H*. (2021). Energy consumption analysis of glass house using electrochromic window in the subtropical region. <strong>Journal of Engineering, Design and Technology</strong>, 19(1), 203-218. (SCI Q1, IF= 2.7, 5 citations, the article is cited in Cell Reports Physical Science)  [[Paper]](https://doi.org/10.1108/JEDT-12-2019-0348)
+- Wang Y, Lin M, Xu K, <strong>Zhang S</strong>, Ma H*. (2021). Energy consumption analysis of glass house using electrochromic window in the subtropical region. <strong>Journal of Engineering, Design and Technology</strong>, 19(1), 203-218. (SCI Q1, IF= 2.7, 5 citations, the article is cited in Cell Reports Physical Science)  [[Paper]](https://doi.org/10.1108/JEDT-12-2019-0348)  
 
 #### <strong> Publications Under Review </strong> (Recent research works):
 
