@@ -24,7 +24,7 @@
 
 - Zhang X, Chen T*, <strong>Zhang S</strong>, Yuan C, PY Tan. (2025). Toward healthy neighborhood thermal environments: Interpretation of thermal comfort and rapid identification of hotspot areas using image-based metrics and explainable machine learning. <strong>Sustainable Cities and Society</strong>, 106648 (SCI Q1, IF=12, 2 citations) [[Paper]](https://doi.org/10.1016/j.scs.2025.106648)
 
-- Chen T, Singh V K, <strong>Zhang S</strong>, Zhang L, Yuan C*. A city-scale mapping tool for assessing effects of urban greenery and morphologies on thermal comfort: A case study in Singapore. <strong>Building and Environment</strong>, 113760. (SCI Q1, IF=7.6, In Press) [[Paper]](https://doi.org/10.1016/j.buildenv.2025.113760)
+- Chen T, Singh V K, <strong>Zhang S</strong>, Zhang L, Yuan C*. (2025). A city-scale mapping tool for assessing effects of urban greenery and morphologies on thermal comfort: A case study in Singapore. <strong>Building and Environment</strong>, 113760. (SCI Q1, IF=7.6, In Press) [[Paper]](https://doi.org/10.1016/j.buildenv.2025.113760)
 
 - Li W, Zhou Z*, <strong>Zhang S</strong>, Feng J. (2022). Study on relationship between shading and outdoor air temperature based on the comparison of two high-rise residential estates with field measurements. <strong>Buildings</strong>, 12(11), 1813. (SCI Q2, IF= 3.1, 5 citations) [[Paper]](https://doi.org/10.3390/buildings12111813)
 
