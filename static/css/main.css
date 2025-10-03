@@ -6,12 +6,12 @@
 }
 
 .header {
-    border-bottom: solid 2px var(--bs-blue);
+    border-bottom: solid 2px #000000;
     z-index: 10000;
 }
 
 .bg-bottom {
-    background-color: var(--h-title-color);
+    background-color: #000000;
 }
 
 .top-section {
