@@ -5,22 +5,22 @@
 I am a Ph.D. graduate from Tsinghua University, focusing on urban design in regions with significant seasonal variations. I am dedicated to integrating urban microclimates with urban building energy models, particularly by optimizing models using localized climate data to address the challenges of urban energy systems under future extreme weather conditions.  
 
 #### Education
-- Ph.D. in Engineering, School of Architecture, Tsinghua University, 2020-2025.
-- Visiting Ph.D. student of Architecture, Department of Architecture, National University of Singapore, 2023-2024.
-- M.Arch of Architecture, School of Architecture, South China University of Technology, 2017-2020.
-- B.arch of Architecture, School of Architecture and Art, Hefei University of Technology, 2012-2017.  
+- Ph.D. in Engineering, School of Architecture, <strong>Tsinghua University</strong>, 2020-2025.
+- Visiting Ph.D. student of Architecture, Department of Architecture, <strong>National University of Singapore</strong>, 2023-2024.
+- M.Arch of Architecture, School of Architecture, <strong>South China University of Technology</strong>, 2017-2020.
+- B.arch of Architecture, School of Architecture and Art, <strong>Hefei University of Technology</strong>, 2012-2017.  
 
 #### Research Interests
 UBEM | Urban microclimate | Mobility and heat risk | Urban climate resilience design  
 
 #### Skills
-- Coding: Python (Machine learning, Deep learning)
-- Geography: ArcGIS, QGIS (UMEP), ENVI, SAGA
-- Simulation: DesignBuilder, Ecotect, Radiance, Daysim, Dpethmap, Ladybug, Honeybee, Dragonfly, Eddy3D
-- 3D Modeling: Rhino + Grasshopper, SketchUp
-- 2D Graphic: AutoCAD, Photoshop, InDesign, Illustrator, PowerPoint
-- Statistics: Excel, SPSS, Minitab, Origin
-- Rendering: Enscape, V-ray
-- Video Editing: Premiere, Audition
+- <strong>Coding</strong>: Python (Machine learning, Deep learning)
+- <strong>Geography</strong>: ArcGIS, QGIS (UMEP), ENVI, SAGA
+- <strong>Simulation</strong>: DesignBuilder, Ecotect, Radiance, Daysim, Dpethmap, Ladybug, Honeybee, Dragonfly, Eddy3D
+- <strong>3D Modeling</strong>: Rhino + Grasshopper, SketchUp
+- <strong>2D Graphic</strong>: AutoCAD, Photoshop, InDesign, Illustrator, PowerPoint
+- <strong>Statistics</strong>: Excel, SPSS, Minitab, Origin
+- <strong>Rendering</strong>: Enscape, V-ray
+- <strong>Video Editing</strong>: Premiere, Audition
 
 
