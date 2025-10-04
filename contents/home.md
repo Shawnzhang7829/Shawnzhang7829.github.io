@@ -16,8 +16,8 @@ UBEM | Urban microclimate | Mobility and heat risk | Urban climate resilience de
 #### Skills
 - <strong>Coding</strong>: Python (Machine learning, Deep learning)
 - <strong>Geography</strong>: ArcGIS, QGIS (UMEP), ENVI, SAGA
-- <strong>Simulation</strong>: DesignBuilder, Ecotect, Radiance, Daysim, Dpethmap, Ladybug, Honeybee, Dragonfly, Eddy3D
-- <strong>3D Modeling</strong>: Rhino + Grasshopper, SketchUp
+- <strong>Simulation</strong>: DesignBuilder, Ecotect, Radiance, Daysim, Dpethmap
+- <strong>3D Modeling</strong>: Rhino + Grasshopper (Ladybug, Honeybee, Dragonfly, Eddy3D), SketchUp
 - <strong>2D Graphic</strong>: AutoCAD, Photoshop, InDesign, Illustrator, PowerPoint
 - <strong>Statistics</strong>: Excel, SPSS, Minitab, Origin
 - <strong>Rendering</strong>: Enscape, V-ray
