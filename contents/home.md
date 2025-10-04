@@ -5,7 +5,7 @@
 I am a Ph.D. graduate from Tsinghua University, focusing on urban design in regions with significant seasonal variations. I am dedicated to integrating <strong>urban microclimates</strong> with <strong>urban building energy models</strong>, particularly by optimizing models using <strong>localized climate data</strong> to address the challenges of urban energy systems under future extreme weather conditions.  
 
 #### Education
-- Ph.D. in Engineering, School of Architecture, <strong>Tsinghua University</strong>, 2020-2024.
+- Ph.D. in Engineering, School of Architecture, <strong>Tsinghua University</strong>, 2020-2025.
 - Visiting Ph.D. student of Architecture, Department of Architecture, <strong>National University of Singapore</strong>, 2023-2024.
 - M.Arch of Architecture, School of Architecture, <strong>South China University of Technology</strong>, 2017-2020.
 - B.arch of Architecture, School of Architecture and Art, <strong>Hefei University of Technology</strong>, 2012-2017.  
