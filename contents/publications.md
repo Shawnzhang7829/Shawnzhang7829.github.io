@@ -22,7 +22,7 @@
 
 - <strong>Zhang S</strong>, Wang Y*.(2019). Dynamic exterior sunshade design and shading effect analysis of southeast and southwest facing buildings in Guangzhou. <strong>Building Energy Efficiency</strong>, 47(08), 91-95+100 (in    Chinese, Tier 3 Chinese National Core Journal in Building Science, 10 citations) [[Paper]](https://d.wanfangdata.com.cn/periodical/fcyyy201908022)
 
-- Zhang X, Chen T*, <strong>Zhang S</strong>, Yuan C, PY Tan. (2025). Toward healthy neighborhood thermal environments: Interpretation of thermal comfort and rapid identification of hotspot areas using image-based metrics and explainable machine learning. <strong>Sustainable Cities and Society</strong>, 106648 (SCI Q1, IF=12, 2 citations) [[Paper]](https://doi.org/10.1016/j.scs.2025.106648)
+- Zhang X, Chen T*, <strong>Zhang S</strong>, Yuan C, Tan PY. (2025). Toward healthy neighborhood thermal environments: Interpretation of thermal comfort and rapid identification of hotspot areas using image-based metrics and explainable machine learning. <strong>Sustainable Cities and Society</strong>, 106648 (SCI Q1, IF=12, 2 citations) [[Paper]](https://doi.org/10.1016/j.scs.2025.106648)
 
 - Chen T, Singh V K, <strong>Zhang S</strong>, Zhang L, Yuan C*. (2025). A city-scale mapping tool for assessing effects of urban greenery and morphologies on thermal comfort: A case study in Singapore. <strong>Building and Environment</strong>, 113760. (SCI Q1, IF=7.6, In Press) [[Paper]](https://doi.org/10.1016/j.buildenv.2025.113760)
 
