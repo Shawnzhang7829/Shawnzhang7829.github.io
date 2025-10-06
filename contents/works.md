@@ -1,4 +1,4 @@
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5555721" style="color: black; text-decoration: none;">
+- <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5555721" style="color: black; text-decoration: none;">
   <strong><span style="font-size: 24px;">UBEM driven by localized weather data for addressing urban building energy risks under compound heatwaves and UHI: a Beijing campus case study</span></strong>
 </a>
 <p style="font-size: 18px; margin: 0;">–under review–</p>
