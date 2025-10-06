@@ -8,5 +8,7 @@
 </p>
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5555721">
-  <img src="https://shawnzhang7829.github.io/worksimage/Paper_1.jpg" style="max-width: 80%; height: auto; display: block; margin: 15px auto;"/>
+  <img src="https://shawnzhang7829.github.io/worksimage/Paper_1.jpg" 
+       style="max-width: 80%; height: auto; display: block; margin: 15px auto;" 
+       loading="lazy"/>
 </a>
