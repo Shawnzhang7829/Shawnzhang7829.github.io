@@ -8,6 +8,8 @@
 
 #### <strong>Publications in Refereed Journals </strong>:
 
+- <strong>Zhang S</strong>, Liu N*, Wu X, Han Y, Li W, Guo F, Song X, Yuan C*. (2025). An empirical study on the compound effects of extreme weather and UHI on building energy consumption under urban microclimate. <strong>Building and Environment</strong>, 113824. (SCI Q1, IF=7.6, In Press). [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5552898)
+
 - <strong>Zhang S</strong>, Yuan C, Chen T, Ma B, Liu N*. (2024). A cross-scale indicator framework for the study of annual stability of land surface temperature in different land uses. <strong>Sustainable Cities and Society</strong>, 116, 105936. (SCI Q1, IF=12) [[Paper]](https://doi.org/10.1016/j.scs.2024.105936)
 
 - <strong>Zhang S</strong>, Yuan C, Ma B, Liu N*, Li W. (2024). Coupling effects of building-vegetation-land on seasonal land surface temperature on street-level: A study from a campus in Beijing. <strong>Building and Environment</strong>, 262, 111790. (SCI Q1, IF=7.6) [[Paper]](https://doi.org/10.1016/j.buildenv.2024.111790)
@@ -31,8 +33,6 @@
 - Wang Y, Lin M, Xu K, <strong>Zhang S</strong>, Ma H*. (2021). Energy consumption analysis of glass house using electrochromic window in the subtropical region. <strong>Journal of Engineering, Design and Technology</strong>, 19(1), 203-218. (SCI Q1, IF= 2.7, the article is cited in Cell Reports Physical Science)  [[Paper]](https://doi.org/10.1108/JEDT-12-2019-0348)  
 
 #### <strong> Publications Under Review </strong> (Recent research works):
-
-- <strong>Zhang S</strong>, Liu N*, Wu X, Han Y, Li W, Guo F, Song X, Yuan C*. An empirical study on the compound effects of extreme weather and UHI on building energy consumption under urban microclimate. <strong>Building and Environment</strong>. (SCI Q1, IF=7.6, Second-round review, originally submitted in May 2025). [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5552898)
 
 - <strong>Zhang S</strong>, Chen T, Zhang X, Liu N*, Yuan C*. UBEM driven by localized weather data for addressing urban building energy risks under compound heatwaves and UHI: a Beijing campus case study. <strong>Sustainable Cities and Society</strong>. (SCI Q1, IF=12, First-round review, originally submitted in August 2025) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5555721) 
 
