@@ -37,7 +37,6 @@
        loading="lazy"/>
 </a>
 
-
 - <a href="https://doi.org/10.1016/j.buildenv.2024.111790" style="color: black; text-decoration: none;">
   <strong><span style="font-size: 24px;">Coupling effects of building-vegetation-land on seasonal land surface temperature on street-level</span></strong>
 </a>
