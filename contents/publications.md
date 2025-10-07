@@ -7,7 +7,7 @@
 
 #### <strong>Publications in Refereed Journals </strong>:
 
-- <strong>Zhang S</strong>, Liu N*, Wu X, Han Y, Li W, Guo F, Song X, Yuan C*. (2025). An empirical study on the compound effects of extreme weather and UHI on building energy consumption under local climate. <strong>Building and Environment</strong>, 113824. (SCI Q1, IF=7.6, In Press). [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5552898)
+- <strong>Zhang S</strong>, Liu N*, Wu X, Han Y, Li W, Guo F, Song X, Yuan C. (2025). An empirical study on the compound effects of extreme weather and UHI on building energy consumption under local climate. <strong>Building and Environment</strong>, 113824. (SCI Q1, IF=7.6, In Press). [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5552898)
 
 - <strong>Zhang S</strong>, Yuan C, Chen T, Ma B, Liu N*. (2024). A cross-scale indicator framework for the study of annual stability of land surface temperature in different land uses. <strong>Sustainable Cities and Society</strong>, 116, 105936. (SCI Q1, IF=12) [[Paper]](https://doi.org/10.1016/j.scs.2024.105936)
 
@@ -33,7 +33,7 @@
 
 #### <strong> Publications Under Review </strong> (Recent research works):
 
-- <strong>Zhang S</strong>, Chen T, Zhang X, Liu N*, Yuan C*. UBEM driven by localized weather data for addressing urban building energy risks under compound heatwaves and UHI: a Beijing campus case study. <strong>Sustainable Cities and Society</strong>. (SCI Q1, IF=12, First-round review, originally submitted in August 2025) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5555721) 
+- <strong>Zhang S</strong>, Chen T, Zhang X, Liu N*, Yuan C. UBEM driven by localized weather data for addressing urban building energy risks under compound heatwaves and UHI: a Beijing campus case study. <strong>Sustainable Cities and Society</strong>. (SCI Q1, IF=12, First-round review, originally submitted in August 2025) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5555721) 
 
 - <strong>Zhang S</strong>, Wu X, Xu P, Liu N*, Li N*. Local UHI mitigation and utilization: Urban building energy modeling, simulation, and urban design responses based on localized weather data. <strong>Building Simulation</strong>. (SCI Q1, IF=5.9, First-round review, originally submitted in September 2025) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5555862)
 
