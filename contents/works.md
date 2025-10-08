@@ -12,7 +12,7 @@
 </a>
 
 - <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5552898" style="color: black; text-decoration: none;">
-  <strong><span style="font-size: 24px;">An empirical study on the compound effects of extreme weather and UHI on building energy consumption under local climate</span></strong>
+  <strong><span style="font-size: 24px;">An empirical study on the compound effects of extreme weather and UHI on building energy consumption under urban local climate</span></strong>
 </a>
 <p style="font-size: 18px; margin: 0;">–Year: 2025–</p>
 <p style="font-size: 18px; max-width: 100%; margin: 0;">
