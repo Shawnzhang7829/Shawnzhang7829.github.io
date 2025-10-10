@@ -7,7 +7,7 @@
 
 #### <strong>Publications in Refereed Journals </strong>:
 
-- <strong>Zhang S</strong>, Liu N*, Wu X, Han Y, Li W, Guo F, Song X, Yuan C. (2025). An empirical study on the compound effects of extreme weather and UHI on building energy consumption under urban local climate. <strong>Building and Environment</strong>, 113824. (SCI Q1, IF=7.6, In Press). [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5552898)
+- <strong>Zhang S</strong>, Liu N*, Wu X, Han Y, Li W, Guo F, Song X, Yuan C. (2025). An empirical study on the compound effects of extreme weather and UHI on building energy consumption under urban local climate. <strong>Building and Environment</strong>, 113824. (SCI Q1, IF=7.6, In Press). [[Paper]](https://doi.org/10.1016/j.buildenv.2025.113824)
 
 - <strong>Zhang S</strong>, Yuan C, Chen T, Ma B, Liu N*. (2024). A cross-scale indicator framework for the study of annual stability of land surface temperature in different land uses. <strong>Sustainable Cities and Society</strong>, 116, 105936. (SCI Q1, IF=12) [[Paper]](https://doi.org/10.1016/j.scs.2024.105936)
 
