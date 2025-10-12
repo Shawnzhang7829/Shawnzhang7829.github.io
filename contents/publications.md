@@ -35,7 +35,7 @@
 
 - <strong>Zhang S</strong>, Chen T, Zhang X, Liu N*, Yuan C. UBEM driven by localized weather data for addressing urban building energy risks under compound heatwaves and UHI: a Beijing campus case study. <strong>Sustainable Cities and Society</strong>. (SCI Q1, IF=12, First-round review, originally submitted in August 2025) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5555721) 
 
-- <strong>Zhang S</strong>, Wu X, Xu P, Liu N*, Li N*. Local UHI mitigation and utilization: Urban building energy modeling, simulation, and urban design responses based on localized weather data. <strong>Building Simulation</strong>. (SCI Q1, IF=5.9, First-round review, originally submitted in September 2025) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5555862)
+- <strong>Zhang S</strong>, Wu X, Xu P, Liu N*, Li N*. Local UHI mitigation and utilization: Urban building energy modeling, simulation, and urban design responses based on localized weather data. <strong>Building Simulation</strong>. (SCI Q1, IF=5.9, First-round review received (minor revision), originally submitted in September 2025) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5555862)
 
 - Xu P†, Zhao P†, Xia B, Zhao Z, <strong>Zhang S*</strong>, Du J*. A free-form and structural-redundant timber reciprocal frame configuration: intelligent design, optimization and fabrication. <strong>Nature communications</strong>. (SCI Q1, IF=15.7, Third-round review, originally submitted in September 2024) [[Paper]](https://doi.org/10.21203/rs.3.rs-4799666/v1)
 
