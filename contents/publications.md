@@ -13,9 +13,9 @@
 
 - <strong>Zhang S</strong>, Yuan C, Ma B, Liu N*, Li W. (2024). Coupling effects of building-vegetation-land on seasonal land surface temperature on street-level: A study from a campus in Beijing. <strong>Building and Environment</strong>, 262, 111790. (SCI Q1, IF=7.6) [[Paper]](https://doi.org/10.1016/j.buildenv.2024.111790)
 
-- <strong>Zhang S</strong>, Liu N*, Li W, Yan S. (2022). Umbrella structure building design method via case-based design and statistical analysis of structural morphological parameters. <strong>Journal of Building Engineering</strong>, 45, 103542. (SCI Q1, IF=7.4, the article is cited in Nature Structural & Molecular Biology) [[Paper]](https://doi.org/10.1016/j.jobe.2021.103542)
-
 - <strong>Zhang S</strong>, Liu N*, Ma B, Yan S. (2023). The effects of street environment features on road running: An analysis using crowdsourced fitness tracker data and machine learning. <strong>Environment and planning B: Urban analytics and city science</strong>, 51(2), 529-545. (SSCI Q1, IF=3.1) [[Paper]](https://doi.org/10.1177/23998083231185589)
+
+- <strong>Zhang S</strong>, Liu N*, Li W, Yan S. (2022). Umbrella structure building design method via case-based design and statistical analysis of structural morphological parameters. <strong>Journal of Building Engineering</strong>, 45, 103542. (SCI Q1, IF=7.4, the article is cited in Nature Structural & Molecular Biology) [[Paper]](https://doi.org/10.1016/j.jobe.2021.103542)
 
 - <strong>Zhang S</strong>, Wang Y*. (2020). Balance of form and force: research on architectural design strategies based on application of eccentric umbrella structure. <strong>The Architect</strong>, 2020(03), 91-99 (in Chinese) [[Paper]](https://d.wanfangdata.com.cn/periodical/jzs202003013)
 
@@ -23,9 +23,9 @@
 
 - <strong>Zhang S</strong>, Wang Y*.(2019). Dynamic exterior sunshade design and shading effect analysis of southeast and southwest facing buildings in Guangzhou. <strong>Building Energy Efficiency</strong>, 47(08), 91-95+100 (in Chinese) [[Paper]](https://d.wanfangdata.com.cn/periodical/fcyyy201908022)
 
-- Zhang X, Chen T*, <strong>Zhang S</strong>, Yuan C, Tan PY. (2025). Toward healthy neighborhood thermal environments: Interpretation of thermal comfort and rapid identification of hotspot areas using image-based metrics and explainable machine learning. <strong>Sustainable Cities and Society</strong>, 106648 (SCI Q1, IF=12) [[Paper]](https://doi.org/10.1016/j.scs.2025.106648)
-
 - Chen T, Singh V K, <strong>Zhang S</strong>, Zhang L, Yuan C*. (2025). A city-scale mapping tool for assessing effects of urban greenery and morphologies on thermal comfort: A case study in Singapore. <strong>Building and Environment</strong>, 113760. (SCI Q1, IF=7.6) [[Paper]](https://doi.org/10.1016/j.buildenv.2025.113760)
+
+- Zhang X, Chen T*, <strong>Zhang S</strong>, Yuan C, Tan PY. (2025). Toward healthy neighborhood thermal environments: Interpretation of thermal comfort and rapid identification of hotspot areas using image-based metrics and explainable machine learning. <strong>Sustainable Cities and Society</strong>, 106648 (SCI Q1, IF=12) [[Paper]](https://doi.org/10.1016/j.scs.2025.106648)
 
 - Li W, Zhou Z*, <strong>Zhang S</strong>, Feng J. (2022). Study on relationship between shading and outdoor air temperature based on the comparison of two high-rise residential estates with field measurements. <strong>Buildings</strong>, 12(11), 1813. (SCI Q2, IF= 3.1) [[Paper]](https://doi.org/10.3390/buildings12111813)
 
