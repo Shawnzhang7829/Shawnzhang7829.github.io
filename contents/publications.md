@@ -37,5 +37,5 @@
 
 - <strong>Zhang S</strong>, Wu X, Xu P, Liu N*, Li N*. Local UHI mitigation and utilization: Urban building energy modeling, simulation, and urban design responses based on localized weather data. <strong>Building Simulation</strong>. (SCI Q1, IF=5.9, First-round review received (minor revision), originally submitted in September 2025) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5555862)
 
-- Xu P†, Zhao P†, Xia B, Zhao Z, Liu N*, <strong>Zhang S*</strong>, Du J*. A free-form and structural-redundant timber reciprocal frame configuration: intelligent design, optimization and fabrication. <strong>Nature communications</strong>. (SCI Q1, IF=15.7, Accept in principle, originally submitted in September 2024) [[Paper]](https://doi.org/10.21203/rs.3.rs-4799666/v1)
+- Xu P†, Zhao P†, Xia B, Zhao Z, Liu N*, <strong>Zhang S*</strong>, Du J*. Reciprocal frame design for large-scale timber construction. <strong>Nature communications</strong>. (SCI Q1, IF=15.7, Accept in principle, originally submitted in September 2024) [[Paper]](https://doi.org/10.21203/rs.3.rs-4799666/v1)
 
