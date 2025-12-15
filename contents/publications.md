@@ -17,7 +17,7 @@
 
 - <strong>Zhang S</strong>, Liu N*, Li W, Yan S. (2022). Umbrella structure building design method via case-based design and statistical analysis of structural morphological parameters. <strong>Journal of Building Engineering</strong>, 45, 103542. (SCI Q1, IF=7.4, the article is cited in Nature Structural & Molecular Biology) [[Paper]](https://doi.org/10.1016/j.jobe.2021.103542)
 
-- Xu P†, Zhao P†, Xia B, Zhao Z, Liu N*, <strong>Zhang S*</strong>, Du J*. Reciprocal frame design for large-scale timber construction. <strong>Nature communications</strong>. (SCI Q1, IF=15.7, In Press) [[Paper]](https://doi.org/10.21203/rs.3.rs-4799666/v1)
+- Xu P†, Zhao P†, Xia B, Zhao Z, Liu N*, <strong>Zhang S*</strong>, Du J*. Reciprocal frame design for large-scale timber construction. <strong>Nature communications</strong>. (SCI Q1, IF=15.7, In Press) [[Paper]](https://doi.org/10.1038/s41467-025-66491-4)
 
 - <strong>Zhang S</strong>, Wang Y*. (2020). Balance of form and force: research on architectural design strategies based on application of eccentric umbrella structure. <strong>The Architect</strong>, 2020(03), 91-99 (in Chinese) [[Paper]](https://d.wanfangdata.com.cn/periodical/jzs202003013)
 
