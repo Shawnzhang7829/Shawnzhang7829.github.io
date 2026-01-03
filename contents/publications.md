@@ -7,6 +7,8 @@
 
 #### <strong>Publications in Refereed Journals </strong>:
 
+- <strong>Zhang S</strong>, Wu X, Xu P, Liu N*, Li N*. Local UHI mitigation and utilization: Urban building energy modeling, simulation, and urban design responses based on localized weather data. <strong>Building Simulation</strong>. (SCI Q1, IF=5.9, Accepted) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5555862)
+
 - <strong>Zhang S</strong>, Liu N*, Wu X, Han Y, Li W, Guo F, Song X, Yuan C. (2025). An empirical study on the compound effects of extreme weather and UHI on building energy consumption under urban local climate. <strong>Building and Environment</strong>, 287, 113824. (SCI Q1, IF=7.6). [[Paper]](https://doi.org/10.1016/j.buildenv.2025.113824)
 
 - <strong>Zhang S</strong>, Yuan C, Chen T, Ma B, Liu N*. (2024). A cross-scale indicator framework for the study of annual stability of land surface temperature in different land uses. <strong>Sustainable Cities and Society</strong>, 116, 105936. (SCI Q1, IF=12) [[Paper]](https://doi.org/10.1016/j.scs.2024.105936)
@@ -32,8 +34,3 @@
 - Li W, Zhou Z*, <strong>Zhang S</strong>, Feng J. (2022). Study on relationship between shading and outdoor air temperature based on the comparison of two high-rise residential estates with field measurements. <strong>Buildings</strong>, 12(11), 1813. (SCI Q2, IF= 3.1) [[Paper]](https://doi.org/10.3390/buildings12111813)
 
 - Wang Y, Lin M, Xu K, <strong>Zhang S</strong>, Ma H*. (2021). Energy consumption analysis of glass house using electrochromic window in the subtropical region. <strong>Journal of Engineering, Design and Technology</strong>, 19(1), 203-218. (SCI Q1, IF= 2.7, the article is cited in Cell Reports Physical Science)  [[Paper]](https://doi.org/10.1108/JEDT-12-2019-0348)  
-
-#### <strong> Publications Under Review </strong> (Recent research works):
-
-- <strong>Zhang S</strong>, Wu X, Xu P, Liu N*, Li N*. Local UHI mitigation and utilization: Urban building energy modeling, simulation, and urban design responses based on localized weather data. <strong>Building Simulation</strong>. (SCI Q1, IF=5.9, Accepted, originally submitted in September 2025) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5555862)
-
