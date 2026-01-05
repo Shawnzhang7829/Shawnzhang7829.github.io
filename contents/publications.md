@@ -4,6 +4,8 @@
 - [![Scopus](https://img.shields.io/badge/Scopus-%23FF6A00?style=flat&logo=scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57349228300) : <a href="https://www.scopus.com/authid/detail.uri?authorId=57349228300" style="color:black; text-decoration:none;">57349228300</a>
 - [![ResearchGate](https://img.shields.io/badge/ResearchGate-%2362A94E?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Shuyang-Zhang-17/research)
 
+<br><br> <!-- Add extra line break for more spacing -->
+
 #### <strong>Publications in Refereed Journals </strong>:
 ##### († co-first author; * Corresponding Author)
 
