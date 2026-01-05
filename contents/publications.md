@@ -3,11 +3,8 @@
 - [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-blue?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=GW_6fuUAAAAJ)
 - [![Scopus](https://img.shields.io/badge/Scopus-%23FF6A00?style=flat&logo=scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57349228300) : <a href="https://www.scopus.com/authid/detail.uri?authorId=57349228300" style="color:black; text-decoration:none;">57349228300</a>
 - [![ResearchGate](https://img.shields.io/badge/ResearchGate-%2362A94E?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Shuyang-Zhang-17/research)
-
 <br>
-
-#### <strong>Publications in Refereed Journals </strong>:
-##### († co-first author; * Corresponding Author)
+#### <strong>Publications in Refereed Journals </strong>(† co-first author; * Corresponding Author):
 
 - <strong>Zhang S</strong>, Wu X, Xu P, Liu N*, Li N*. Local UHI mitigation and utilization: Urban building energy modeling, simulation, and urban design responses based on localized weather data. <strong>Building Simulation</strong>. (SCI Q1, IF=5.9, Accepted) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5555862)
 
