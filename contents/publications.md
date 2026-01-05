@@ -1,4 +1,3 @@
-##### († co-first author; * Corresponding Author)
 - [![ORCID](https://img.shields.io/badge/ORCID-green?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3677-1363) : <a href="https://orcid.org/0000-0002-3677-1363" style="color:black; text-decoration:none;">0000-0002-3677-1363</a>
 - [![Web of Science](https://img.shields.io/badge/Web%20of%20Science-darkblue?style=flat&logo=webofscience&logoColor=white)](https://www.webofscience.com/wos/author/record/OIR-4914-2025) : <a href="https://www.webofscience.com/wos/author/record/OIR-4914-2025" style="color:black; text-decoration:none;">OIR-4914-2025</a>
 - [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-blue?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=GW_6fuUAAAAJ)
@@ -6,6 +5,7 @@
 - [![ResearchGate](https://img.shields.io/badge/ResearchGate-%2362A94E?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Shuyang-Zhang-17/research)
 
 #### <strong>Publications in Refereed Journals </strong>:
+##### († co-first author; * Corresponding Author)
 
 - <strong>Zhang S</strong>, Wu X, Xu P, Liu N*, Li N*. Local UHI mitigation and utilization: Urban building energy modeling, simulation, and urban design responses based on localized weather data. <strong>Building Simulation</strong>. (SCI Q1, IF=5.9, Accepted) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5555862)
 
