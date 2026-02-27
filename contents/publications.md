@@ -18,7 +18,7 @@
 
 - <strong>Zhang S</strong>, Liu N*, Ma B, Yan S. (2023). The effects of street environment features on road running: An analysis using crowdsourced fitness tracker data and machine learning. <strong>Environment and planning B: Urban analytics and city science</strong>, 51(2), 529-545. (SSCI Q1, IF=3.1) [[Paper]](https://doi.org/10.1177/23998083231185589)
 
-- <strong>Zhang S</strong>, Liu N*, Li W, Yan S. (2022). Umbrella structure building design method via case-based design and statistical analysis of structural morphological parameters. <strong>Journal of Building Engineering</strong>, 45, 103542. (SCI Q1, IF=7.4, the article is cited in <strong><i>Nature Structural & Molecular Biology</i></strong> and <strong><i>Nature Communications</i></strong>) [[Paper]](https://doi.org/10.1016/j.jobe.2021.103542)
+- <strong>Zhang S</strong>, Liu N*, Li W, Yan S. (2022). Umbrella structure building design method via case-based design and statistical analysis of structural morphological parameters. <strong>Journal of Building Engineering</strong>, 45, 103542. (SCI Q1, IF=7.4, the article is cited in <i>Nature Structural & Molecular Biology</i> and <i>Nature Communications</i>) [[Paper]](https://doi.org/10.1016/j.jobe.2021.103542)
 
 - Xu P†, Zhao P†, Xia B, Zhao Z, Liu N*, <strong>Zhang S*</strong>, Du J*. Reciprocal frame design for large-scale timber construction. <strong>Nature communications</strong>. (SCI Q1, IF=15.7) [[Paper]](https://doi.org/10.1038/s41467-025-66491-4)
 
@@ -34,4 +34,4 @@
 
 - Li W, Zhou Z*, <strong>Zhang S</strong>, Feng J. (2022). Study on relationship between shading and outdoor air temperature based on the comparison of two high-rise residential estates with field measurements. <strong>Buildings</strong>, 12(11), 1813. (SCI Q2, IF= 3.1) [[Paper]](https://doi.org/10.3390/buildings12111813)
 
-- Wang Y, Lin M, Xu K, <strong>Zhang S</strong>, Ma H*. (2021). Energy consumption analysis of glass house using electrochromic window in the subtropical region. <strong>Journal of Engineering, Design and Technology</strong>, 19(1), 203-218. (SCI Q1, IF= 2.7, the article is cited in <strong><i>Cell Reports Physical Science</i><strong>)  [[Paper]](https://doi.org/10.1108/JEDT-12-2019-0348)  
+- Wang Y, Lin M, Xu K, <strong>Zhang S</strong>, Ma H*. (2021). Energy consumption analysis of glass house using electrochromic window in the subtropical region. <strong>Journal of Engineering, Design and Technology</strong>, 19(1), 203-218. (SCI Q1, IF= 2.7, the article is cited in <i>Cell Reports Physical Science</i>)  [[Paper]](https://doi.org/10.1108/JEDT-12-2019-0348)  
