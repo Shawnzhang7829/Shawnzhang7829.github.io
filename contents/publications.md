@@ -18,7 +18,7 @@
 
 - <strong>Zhang S</strong>, Liu N*, Ma B, Yan S. (2023). The effects of street environment features on road running: An analysis using crowdsourced fitness tracker data and machine learning. <strong>Environment and planning B: Urban analytics and city science</strong>, 51(2), 529-545. (SSCI Q1, IF=3.1) [[Paper]](https://doi.org/10.1177/23998083231185589)
 
-- <strong>Zhang S</strong>, Liu N*, Li W, Yan S. (2022). Umbrella structure building design method via case-based design and statistical analysis of structural morphological parameters. <strong>Journal of Building Engineering</strong>, 45, 103542. (SCI Q1, IF=7.4, the article is cited in <strong><i>Nature Structural & Molecular Biology</i><strong> and <strong><i>Nature Communications</i><strong>) [[Paper]](https://doi.org/10.1016/j.jobe.2021.103542)
+- <strong>Zhang S</strong>, Liu N*, Li W, Yan S. (2022). Umbrella structure building design method via case-based design and statistical analysis of structural morphological parameters. <strong>Journal of Building Engineering</strong>, 45, 103542. (SCI Q1, IF=7.4, the article is cited in <strong><i>Nature Structural & Molecular Biology</i></strong> and <strong><i>Nature Communications</i></strong>) [[Paper]](https://doi.org/10.1016/j.jobe.2021.103542)
 
 - Xu P†, Zhao P†, Xia B, Zhao Z, Liu N*, <strong>Zhang S*</strong>, Du J*. Reciprocal frame design for large-scale timber construction. <strong>Nature communications</strong>. (SCI Q1, IF=15.7) [[Paper]](https://doi.org/10.1038/s41467-025-66491-4)
 
