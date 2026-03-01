@@ -5,7 +5,7 @@
 I am a research fellow at the National University of Singapore, focusing on the optimization of urban planning and architectural design in the context of global climate change and urban heat island effects. I am dedicated to integrating <strong>urban microclimates</strong> with <strong>urban building energy models (UBEM)</strong>, particularly optimizing models with <strong>localized climate data</strong> to address the challenges of urban energy systems and heat risk under extreme weather conditions.  
 
 #### Experience
--Research fellow, City Syntax Lab, Department of the Built Environment, <strong>National University of Singapore</strong>, 2026-2027.
+-Research fellow, City Syntax Lab, Department of the Built Environment, <strong>National University of Singapore</strong>, 2026- .
 
 #### Education
 - Ph.D. in Engineering, School of Architecture, <strong>Tsinghua University</strong>, 2020-2025.
