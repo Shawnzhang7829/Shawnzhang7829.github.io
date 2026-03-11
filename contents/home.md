@@ -1,6 +1,6 @@
 #### Contact
 - <strong>LinkedIn</strong>: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuyang-zhang-b355602a7/)
-- <strong>Email</strong>: <a href="mailto:zhangshu20@tsinghua.org.cn" style="color:black; text-decoration:none;">zhangshu20@tsinghua.org.cn</a>
+- <strong>Email</strong>: <a href="mailto:shuyang.zhang@nus.edu.sg" style="color:black; text-decoration:none;">shuyang.zhang@nus.edu.sg</a><a href="mailto:zhangshu20@tsinghua.org.cn" style="color:black; text-decoration:none;">zhangshu20@tsinghua.org.cn</a>
 
 I am a research fellow at the National University of Singapore, focusing on the optimization of urban planning and architectural design in the context of global climate change and urban heat island effects. I am dedicated to integrating <strong>urban microclimates</strong> with <strong>urban building energy models (UBEM)</strong>, particularly optimizing models with <strong>localized climate data</strong> to address the challenges of urban energy systems and heat risk under extreme weather conditions.  
 
