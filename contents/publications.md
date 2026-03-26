@@ -30,8 +30,11 @@
 
 - Chen T, Singh V K, <strong>Zhang S</strong>, Zhang L, Yuan C*. (2025). A city-scale mapping tool for assessing effects of urban greenery and morphologies on thermal comfort: A case study in Singapore. <strong>Building and Environment</strong>, 287, 113760. (SCI Q1, IF=7.6) [[Paper]](https://doi.org/10.1016/j.buildenv.2025.113760)
 
-- Zhang X, Chen T*, <strong>Zhang S</strong>, Yuan C, Tan PY. (2025). Toward healthy neighborhood thermal environments: Interpretation of thermal comfort and rapid identification of hotspot areas using image-based metrics and explainable machine learning. <strong>Sustainable Cities and Society</strong>, 106648 (SCI Q1, IF=12) [[Paper]](https://doi.org/10.1016/j.scs.2025.106648)
+- Zhang X, Chen T*, <strong>Zhang S</strong>, Yuan C, Tan PY. (2025). Toward healthy neighborhood thermal environments: Interpretation of thermal comfort and rapid identification of hotspot areas using image-based metrics and explainable machine learning. <strong>Sustainable Cities and Society</strong>, 106648. (SCI Q1, IF=12) [[Paper]](https://doi.org/10.1016/j.scs.2025.106648)
 
 - Li W, Zhou Z*, <strong>Zhang S</strong>, Feng J. (2022). Study on relationship between shading and outdoor air temperature based on the comparison of two high-rise residential estates with field measurements. <strong>Buildings</strong>, 12(11), 1813. (SCI Q2, IF= 3.1) [[Paper]](https://doi.org/10.3390/buildings12111813)
 
+- Gao X, Yuan M, Yang Y, <strong>Zhang S</strong>, Ni J, Zhuang W, Geng Y*. (2026). Decoding occupant behavior in shared spaces of open-plan offices: A multi-sensor data fusion and machine learning approach. <strong>Building and Environment</strong>, 114281. (SCI Q1, IF=7.6) [[Paper]](https://doi.org/10.1016/j.buildenv.2026.114281)
+
 - Wang Y, Lin M, Xu K, <strong>Zhang S</strong>, Ma H*. (2021). Energy consumption analysis of glass house using electrochromic window in the subtropical region. <strong>Journal of Engineering, Design and Technology</strong>, 19(1), 203-218. (SCI Q1, IF= 2.7, the article is cited in <strong><i>Cell Reports Physical Science</i></strong>)  [[Paper]](https://doi.org/10.1108/JEDT-12-2019-0348)  
+
