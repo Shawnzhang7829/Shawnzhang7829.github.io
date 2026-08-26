@@ -8,6 +8,8 @@
 
 #### <strong>Publications in Refereed Journals </strong>(† co-first author; * Corresponding Author):
 
+- <strong>Zhang S</strong>, Chen T, Zhang X, Gao X, Yuan C, Liu N*. (2026). UBEM driven by localized weather data for addressing urban building energy risks under compound heatwaves and UHI: a campus-scale study. <strong>Building and Environment</strong>. (SCI Q1, IF=7.6) [[Paper]](https://doi.org/10.1016/j.buildenv.2026.115168)
+
 - <strong>Zhang S</strong>, Wu X, Xu P, Liu N*, Li N*. (2026). Local UHI mitigation and utilization: Urban building energy modeling, simulation, and urban design responses based on localized weather data. <strong>Building Simulation</strong>. (SCI Q1, IF=5.9) [[Paper]](https://doi.org/10.1007/s12273-026-1410-7)
 
 - <strong>Zhang S</strong>, Liu N*, Wu X, Han Y, Li W, Guo F, Song X, Yuan C. (2025). An empirical study on the compound effects of extreme weather and UHI on building energy consumption under urban local climate. <strong>Building and Environment</strong>, 287, 113824. (SCI Q1, IF=7.6). [[Paper]](https://doi.org/10.1016/j.buildenv.2025.113824)
